@@ -1575,6 +1575,8 @@ _www
 1admin
 1c/
 02
+lock.php
+locks.php
 2
 2.php
 2.sql
