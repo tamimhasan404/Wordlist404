@@ -26,9 +26,9 @@ e2e/.env
 en/.env
 engine/.env
 env/.env
-/install/.env
-/local/.env
-/log/.env
+install/.env
+local/.env
+log/.env
 admin-app/.env
 admin/.env
 adminer/.env
