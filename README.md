@@ -14,7 +14,7 @@
 
 - This repository is specially made for bug hunters and penetration testers.
 -  I will try to update this repository regularly.
--  And yes, You are invited to contribute in this repository. Feel free to contribute.
+-  And yes, You are invited to contribute in this repository so feel free to contribute.
   
   
   
