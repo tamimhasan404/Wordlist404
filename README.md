@@ -1,6 +1,6 @@
-# wordlist
 
-- **Popular Dir Bruteforce Tools**
+
+ **Popular Dir Bruteforce Tools**
 
   - [ ]  [ffuf](https://github.com/ffuf/ffuf)
   - [ ]  [dirsearch](https://github.com/maurosoria/dirsearch)
