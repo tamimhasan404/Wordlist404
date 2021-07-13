@@ -1,3 +1,5 @@
+![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+
 
 ![giphy (3)](https://user-images.githubusercontent.com/66991901/125233398-44e07d00-e300-11eb-8e77-4d2acd864b30.gif)
 
