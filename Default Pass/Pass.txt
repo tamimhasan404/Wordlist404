@@ -5,3 +5,8 @@ Username: admin & Pass: 5iveL!fe
 || Grafana
 usename: admin
 password: admin
+
+|| Phpmyadmin
+
+username: root
+password: empty/blank
