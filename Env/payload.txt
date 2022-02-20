@@ -30,6 +30,7 @@ install/.env
 local/.env
 log/.env
 admin-app/.env
+actuator/env
 admin/.env
 adminer/.env
 wp-content/.env
