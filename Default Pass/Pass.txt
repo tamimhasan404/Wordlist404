@@ -13,3 +13,5 @@ password: empty/blank
 || Webdav
 username: jigsaw
 password: jigsaw
+usersname: wampp
+password:  xampp
