@@ -7,6 +7,9 @@ usename: admin
 password: admin
 
 || Phpmyadmin
-
 username: root
 password: empty/blank
+
+|| Webdav
+username: jigsaw
+password: jigsaw
