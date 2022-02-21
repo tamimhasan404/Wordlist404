@@ -1,4 +1,5 @@
 _cat
+/_cat/api
 /_cluster
 /_security
 /_cat/segments
@@ -44,4 +45,4 @@ _cat
 /_cat/nodes
 /_security/user
 /_cat/indices?v
-​
+/_bulk
