@@ -13,5 +13,23 @@ password: empty/blank
 || Webdav
 username: jigsaw
 password: jigsaw
+
 usersname: wampp
 password:  xampp
+
+|| Apache Tomcat
+username: admin
+password: tomcat
+
+username: tomcat
+password: tomcat
+
+username: tomcat
+password: s3cret
+## Find More: https://github.com/netbiosX/Default-Credentials/blob/master/Apache-Tomcat-Default-Passwords.mdown
+
+|| Cisco
+username: cisco
+password: cisco
+## Find More: https://www.lifewire.com/cisco-default-password-list-2619151
+
