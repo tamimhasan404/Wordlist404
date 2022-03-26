@@ -33,3 +33,7 @@ username: cisco
 password: cisco
 ## Find More: https://www.lifewire.com/cisco-default-password-list-2619151
 
+|| matomo
+username: admin
+password: changeMe
+
