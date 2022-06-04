@@ -8,6 +8,8 @@ wpi
 /?#
 ;
 @
+nginx.conf
+nginx/nginx.conf
 _
 ~
 ~/
