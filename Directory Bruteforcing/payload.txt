@@ -1,5 +1,5 @@
-000003.log
 000006.log
+000003.log
 001_end
 001.sql
 00-backup
