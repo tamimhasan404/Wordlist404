@@ -13,6 +13,8 @@ sym404
 00-img
 00-inc
 00-mp
+wpiu_
+wpiu
 00-ps
 01
 01.sql
@@ -67,6 +69,8 @@ sym404
 1234qwer
 123.php
 123.php
+WPIU
+WPIU_
 123.txt
 123.txt
 12qwaszx
